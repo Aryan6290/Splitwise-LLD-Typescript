@@ -11,7 +11,11 @@ Splitwise App made with Nodejs and Typescript
 E.g. for EQUAL payments --- EXPENSE 1 1000 EQUAL 2,3,4
 For EXACT/PERCENTAGE --- EXPENSE 1 1000 EXACT 2,3,4 200,100,500
 
-
 2. SHOW --- Will show you the balance for each user
 
 3. SIMPLIFY --- Will show you how much each user owes or is in debt.
+
+## Things to do:
+1. Write tests 
+2. Complete Simplify function
+3. Refactor code using DRY,SOLID and KISS principles
